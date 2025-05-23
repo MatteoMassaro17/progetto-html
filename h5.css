@@ -1,0 +1,16 @@
+h5 a:link {
+  color: #6699CC;
+}
+
+h5 a:visited {
+  color: #660099;
+}
+
+h5 a:active {
+  color: #FF00FF;
+}
+
+h5 a:hover {
+  color: orange;
+  font-style: italic;
+}
